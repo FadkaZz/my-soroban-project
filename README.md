@@ -41,7 +41,7 @@ We envision a world where every "I'm running late" is backed by the security of 
 
 ### 📸 REGISTRY SCREENSHOT
 
-![Block Explorer View](screenshot.png)
+![Block Explorer View](screenshoot.png)
 
 ---
 
