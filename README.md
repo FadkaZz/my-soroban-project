@@ -84,7 +84,8 @@ We envision a world where every "I'm running late" is backed by the security of 
 
 ### 📸 REGISTRY SCREENSHOT
 
-![Block Explorer View](screenshot.png)
+![Block Explorer View](<img width="1279" height="719" alt="image" src="https://github.com/user-attachments/assets/f71067ca-3976-4c2a-8bee-1d0c0e56898d" />
+)
 
 ---
 
